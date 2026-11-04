@@ -6,7 +6,7 @@
 /* ---------- 1. RÉGLAGES ---------- */
 const CONFIG = {
   site: { lat: 14.74282340329234, lng: -17.28942341797315, radius: 100, maxAcc: 150 },   // Soned Afrique (mètres)
-  endpoint: 'https://script.google.com/macros/s/AKfycbwiyF_qT5wmxL0r27DCioayFxFXg4YzTnLWD0MSa9J1mChNLIoTimQBUbDA_Pumcy_i3Q/exec',   // ← adresse « /exec » du script Google (voir README)
+  endpoint: 'https://script.google.com/macros/s/AKfycbzo13Fb5T6HkPoy8ctty5bPQUbWk6P8uuwV6KqB6HwxF1BfLCvBLxTdteqjUKaXQsQ/exec',   // ← adresse « /exec » du script Google (voir README)
   version: '10.1',                       // version attendue du script Google
   tz: 'Africa/Dakar',
   devMail: 'fatina200118@gmail.com'     // développeur : Mamadou Fall
